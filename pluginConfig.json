@@ -1,0 +1,9 @@
+{
+    "name": "Notepad",
+    "type":"win32",
+    "execPath": "exec/youdao.exe",
+    "icon":"logo.png",
+    "pluginVersion": "1.0",
+    "pluginAuthor":"Aero8m",
+    "pluginIntroduce":"校园悬浮窗的win32应用插件示例"
+}
